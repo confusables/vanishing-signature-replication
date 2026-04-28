@@ -67,7 +67,7 @@ pip install openai python-dotenv
 
 ## Author
 
-- **Ava** — Replication researcher
+- **@tonichen** — Replication researcher
 
 ## License
 
